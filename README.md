@@ -3,6 +3,10 @@
 ### Project Overview
 
 This project aims to analyze the sales data of a fictional retail company for the year 2015. The goal is to identify trends, gain insights into the sales performance and make recommendations,to help the company make informed decisions to drive business growth.
+![Dashboard](IMG_Dashboard.jpg)
+
+![IMG_Dashboard](https://github.com/user-attachments/assets/60ea70dc-ea31-4bff-a62b-96c84e2eaf7c)
+
 
 ### Data sources
 
